@@ -1,0 +1,13 @@
+p{
+    color: orange;
+}
+h3{
+    color: violet;
+}
+.spesial h3{
+    text-decoration: underline;
+}
+#istimewa{
+    font-family: Arial;
+    border: 1px solid black;
+}
